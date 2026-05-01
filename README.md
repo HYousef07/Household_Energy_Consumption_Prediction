@@ -1,21 +1,12 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+Team Members:
+- Osama Alobaid (X00230146)
+- Almujtaba Mohamed - X00230145
+- Hady Yousef X00219585
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+---
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+## Introduction
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+This project seeks to use a machine learning approach to predict Global Active Power (kW) consumption based on data collected from kWh sensors used in home electrical meters․ This information can be useful for home owners‚ electric companies‚ and smart homes as global energy prices increase and sustainability requires better estimates of consumption․
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
-# Project
+The project consists of loading and merging three real-world datasets‚ cleaning and preprocessing the data‚ conducting exploratory data analysis‚ training and evaluating several regression models‚ and deploying the best performing model with an interactive desktop graphical user interface (GUI)․
