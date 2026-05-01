@@ -1,5 +1,5 @@
 Team Members:
-- Osama Alobaid (X00230146)
+- Osama Alobaid X00230146
 - Almujtaba Mohamed - X00230145
 - Hady Yousef X00219585
 
